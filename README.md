@@ -3,7 +3,7 @@
 
 - 🔥 Full Stack and CO developer at @Sistemasblu
 
-- 🔭 I’m currently working on  [Sistemasblu](https://sistemasblu.com.br)
+- 🔭 I’m currently working on <a href="https://sistemasblu.com.br" target="_blank "> SistemasBlu
 
 - 💬 Ask me about **JavaScript, HTML, CSS, SQL**
 
