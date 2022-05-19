@@ -29,7 +29,7 @@
 
 <p align="left">
 <img width="530em" src="https://github-readme-stats.vercel.app/api?username=moisesamaral&show_icons=true&theme=vision-friendly-dark" alt="moises stats"/>
-<img width="530em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=moisesamaral&layout=compact&theme=vision-friendly-dark" alt="Moises linguagens"/>
+<img width="530em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=moisesamaral&layout=compact&theme=vision-friendly-yellow" alt="Moises linguagens"/>
 </p>
 
 <br><br>
