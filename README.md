@@ -8,7 +8,7 @@
 
 - 👨‍💻 front-end developer, focused on React js.
 
-- 🔭 I’m currently working at [SISTEMASBLU](https://sistemasblu.com.br).
+- 🔭 I’m currently working at [...]
  
 - 💬 Ask me about everything, I always enjoy helping people.
 
