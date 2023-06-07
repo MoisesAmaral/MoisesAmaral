@@ -8,7 +8,7 @@
 
 - 👨‍💻 front-end developer, focused on React js.
 
-- 🔭 I’m currently working at [...]
+- 🔭 I’m currently working a na Lider Aviação
  
 - 💬 Ask me about everything, I always enjoy helping people.
 
